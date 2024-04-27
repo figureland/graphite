@@ -1,0 +1,19 @@
+body,
+html {
+	font-family:
+		-apple-system,
+		BlinkMacSystemFont,
+		Helvetica Neue,
+		sans-serif;
+	font-style: normal;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	width: 100%;
+	height: 100vh;
+	overflow: hidden;
+}
+
+* {
+	box-sizing: inherit;
+}
